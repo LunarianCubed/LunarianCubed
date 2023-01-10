@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- This is Lunarian3, pronunced as _"Lunarian Cubed"_, or you can simply call me lunar
+- 🔭 I’m currently a cybersecurity student in LSU 
+- 🌱 I’m currently learning js, python, assembly(IA32)... and more about _**PEN TEST**_
+- 📫 How to reach me: [Twitter](https://twitter.com/LunarianCubed) 
 <!--
 **LunarianCubed/LunarianCubed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
