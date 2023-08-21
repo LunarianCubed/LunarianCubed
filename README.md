@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning js, python, assembly(IA32)... and more about _**PEN TEST**_
 - 📫 How to reach me: [Twitter](https://twitter.com/LunarianCubed) 
 - Microsoft and closed source proprietary binary format hater😣
+###
+- Touhou Fan, favorite character is Hata no Kokoro :D
 <!--
 **LunarianCubed/LunarianCubed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
