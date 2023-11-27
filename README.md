@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - This is Lunarian3, pronunced as _"Lunarian Cubed"_, or you can simply call me lunar
-- 🔭 I’m currently a cybersecurity student in LSU 
-- 🌱 I’m currently learning js, python, assembly(IA32)... and more about _**PEN TEST**_
+- 🔭 I’m currently a senior year undergraduate cybersecurity student in LSU 
+- 🌱 I’m currently learning js, python, assembly(IA32)... and more about _**PEN TEST**_ and _**PWN**_
 - 📫 How to reach me: [Twitter](https://twitter.com/LunarianCubed) 
 - Microsoft and closed source proprietary binary format hater😣
 ###
