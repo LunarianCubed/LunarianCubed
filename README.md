@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - This is Lunarian3, pronunced as _"Lunarian Cubed"_, or you can simply call me lunar
-- 🔭 I’m currently a senior year undergraduate cybersecurity student in LSU 
-- 🌱 I’m currently learning js, python, assembly(IA32)... and more about _**PEN TEST**_ and _**PWN**_
-- 📫 How to reach me: [Twitter](https://twitter.com/LunarianCubed) 
+- 🔭 I’m currently a first year PhD student in cybersecurity at LSU 
+- 📫 How to reach me: [Twitter](https://twitter.com/LunarianCubed)  [Email](me@lunarian3.com)
 - Microsoft and closed source proprietary binary format hater😣
 ###
 - Touhou Fan, favorite character is Hata no Kokoro :D
